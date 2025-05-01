@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://www.balloonsdirect.com/media/catalog/product/cache/37d07aa740105e301b528c2cfe995ae1/b/l/bluepvc_2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p{
+    color: rgb(205, 255, 235);
+}
+
+table{color: rgba(137, 43, 43, 0.663);}
+
+#green{
+    background-color: yellow;
+}
+
+#sanchez{
+    background-color: green; 
+}
+
+#rick{
+    background-color: red;
+}
+
+.main{
+    border: 5px solid crimson;
+}
